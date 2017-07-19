@@ -1,0 +1,10 @@
+DiffEq_Inference.exe -r 1000 -c 1000 -null -g 1000 -t 2_Coupled_1.dat -tmin 0 -tmax 1 -ee -ei -fullDis -timer 2 -p
+DiffEq_Inference.exe -r 1001 -c 1000 -null -g 1000 -t 2_Coupled_1.dat -tmin 0 -tmax 1 -ee -ei -fullDis -timer 2 -p
+DiffEq_Inference.exe -r 1002 -c 1000 -null -g 1000 -t 2_Coupled_1.dat -tmin 0 -tmax 1 -ee -ei -fullDis -timer 2 -p
+DiffEq_Inference.exe -r 1003 -c 1000 -null -g 1000 -t 2_Coupled_1.dat -tmin 0 -tmax 1 -ee -ei -fullDis -timer 2 -p
+DiffEq_Inference.exe -r 1004 -c 1000 -null -g 1000 -t 2_Coupled_1.dat -tmin 0 -tmax 1 -ee -ei -fullDis -timer 2 -p
+DiffEq_Inference.exe -r 1005 -c 1000 -null -g 1000 -t 2_Coupled_1.dat -tmin 0 -tmax 1 -ee -ei -fullDis -timer 2 -p
+DiffEq_Inference.exe -r 1006 -c 1000 -null -g 1000 -t 2_Coupled_1.dat -tmin 0 -tmax 1 -ee -ei -fullDis -timer 2 -p
+DiffEq_Inference.exe -r 1007 -c 1000 -null -g 1000 -t 2_Coupled_1.dat -tmin 0 -tmax 1 -ee -ei -fullDis -timer 2 -p
+DiffEq_Inference.exe -r 1008 -c 1000 -null -g 1000 -t 2_Coupled_1.dat -tmin 0 -tmax 1 -ee -ei -fullDis -timer 2 -p
+DiffEq_Inference.exe -r 1009 -c 1000 -null -g 1000 -t 2_Coupled_1.dat -tmin 0 -tmax 1 -ee -ei -fullDis -timer 2 -p

@@ -1,0 +1,72 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: DiffEq_Inference - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\JOSHBO~1\LOCALS~1\Temp\RSP6DB.tmp" with contents
+[
+/nologo /ML /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Release/DiffEq_Inference.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Papers\2007\2007_Equations\Automated_Modeling\Code\Physical_Systems\diffEq.cpp"
+"C:\Papers\2007\2007_Equations\Automated_Modeling\Code\Physical_Systems\DiffEq_Inference.cpp"
+"C:\Papers\2007\2007_Equations\Automated_Modeling\Code\Physical_Systems\EE.cpp"
+"C:\Papers\2007\2007_Equations\Automated_Modeling\Code\Physical_Systems\eqNode.cpp"
+"C:\Papers\2007\2007_Equations\Automated_Modeling\Code\Physical_Systems\estPhase.cpp"
+"C:\Papers\2007\2007_Equations\Automated_Modeling\Code\Physical_Systems\expPhase.cpp"
+"C:\Papers\2007\2007_Equations\Automated_Modeling\Code\Physical_Systems\matrix.cpp"
+"C:\Papers\2007\2007_Equations\Automated_Modeling\Code\Physical_Systems\model.cpp"
+"C:\Papers\2007\2007_Equations\Automated_Modeling\Code\Physical_Systems\result.cpp"
+"C:\Papers\2007\2007_Equations\Automated_Modeling\Code\Physical_Systems\simParams.cpp"
+"C:\Papers\2007\2007_Equations\Automated_Modeling\Code\Physical_Systems\test.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\JOSHBO~1\LOCALS~1\Temp\RSP6DB.tmp" 
+Creating temporary file "C:\DOCUME~1\JOSHBO~1\LOCALS~1\Temp\RSP6DC.tmp" with contents
+[
+/nologo /ML /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Release/DiffEq_Inference.pch" /Yc"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Papers\2007\2007_Equations\Automated_Modeling\Code\Physical_Systems\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\JOSHBO~1\LOCALS~1\Temp\RSP6DC.tmp" 
+Creating temporary file "C:\DOCUME~1\JOSHBO~1\LOCALS~1\Temp\RSP6DD.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /profile /machine:I386 /out:"Release/DiffEq_Inference.exe" 
+.\Release\diffEq.obj
+.\Release\DiffEq_Inference.obj
+.\Release\EE.obj
+.\Release\eqNode.obj
+.\Release\estPhase.obj
+.\Release\expPhase.obj
+.\Release\matrix.obj
+.\Release\model.obj
+.\Release\result.obj
+.\Release\simParams.obj
+.\Release\StdAfx.obj
+.\Release\test.obj
+]
+Creating command line "link.exe @C:\DOCUME~1\JOSHBO~1\LOCALS~1\Temp\RSP6DD.tmp"
+<h3>Output Window</h3>
+Compiling...
+StdAfx.cpp
+Compiling...
+diffEq.cpp
+DiffEq_Inference.cpp
+EE.cpp
+eqNode.cpp
+estPhase.cpp
+expPhase.cpp
+matrix.cpp
+model.cpp
+result.cpp
+simParams.cpp
+test.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+DiffEq_Inference.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

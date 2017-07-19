@@ -1,0 +1,1 @@
+DiffEq_Inference.exe -null -r 0  -n 0.08 -c 1000 -g 1000 -t 2_Higher_Degree.dat -tmin 0 -tmax 1 -ee -ei -fullDis -snip -timer 30

@@ -1,0 +1,1 @@
+DiffEq_Inference.exe -r 0 -c 1000 -n 0.08 -td 6 -el 10 -null -g 1000 -t LV.dat -tmin 0 -tmax 1 -ee -ei -fullDis -snip -timer 30
